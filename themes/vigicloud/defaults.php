@@ -126,11 +126,4 @@ class OC_Theme {
 	public function getFDroidClientUrl(): string {
 		return '';
 	}
-
-	/**
-	 * Override logo URL
-	 */
-	public function getLogo(bool $useSvg = false): string {
-		return 'https://i.postimg.cc/QCgRKhBH/vigitec-logo.png';
-	}
 }
