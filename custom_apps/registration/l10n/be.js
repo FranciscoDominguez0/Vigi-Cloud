@@ -1,0 +1,16 @@
+OC.L10N.register(
+    "registration",
+    {
+    "Saved" : "Захавана",
+    "Please provide a valid display name." : "Увядзіце сапраўднае імя для паказу.",
+    "Email" : "Электронная пошта",
+    "Continue" : "Працягнуць",
+    "Back to login" : "Назад да формы ўваходу",
+    "Full name" : "Поўнае імя",
+    "Phone number" : "Нумар тэлефона",
+    "Password" : "Пароль",
+    "Loading" : "Загрузка",
+    "Create account" : "Стварыць уліковы запіс",
+    "Verify" : "Спраўдзіць"
+},
+"nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");

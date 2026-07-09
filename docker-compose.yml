@@ -42,6 +42,8 @@ services:
 
     volumes:
       - nextcloud_data:/var/www/html
+      - ./custom_apps:/var/www/html/custom_apps   # Apps personalizadas (sin tocar el núcleo)
+      - ./themes/vigicloud:/var/www/html/themes/vigicloud  # Tema personalizado (branding)
 
   adminer:
     image: adminer

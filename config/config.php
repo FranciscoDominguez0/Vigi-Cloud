@@ -11,4 +11,5 @@ $CONFIG = array (
   'datadirectory' => '/var/www/html/data',
   'dbtype' => 'mysql',
   'version' => '25.0.0.0',
+  'theme' => 'vigicloud',
 );

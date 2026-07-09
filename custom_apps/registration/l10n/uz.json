@@ -1,0 +1,12 @@
+{ "translations": {
+    "Saved" : "Saved",
+    "Register" : "Roʻyxatdan oʻtish",
+    "Email" : "Email",
+    "Continue" : "Davom etish",
+    "Back to login" : "Kirishga qaytish",
+    "Full name" : "Full name",
+    "Password" : "Password",
+    "Loading" : "Loading",
+    "Verify" : "Verify"
+},"pluralForm" :"nplurals=1; plural=0;"
+}
