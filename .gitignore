@@ -1,0 +1,10 @@
+# Ignore environment and runtime files
+.env
+nextcloud/data/
+nextcloud/config/
+custom_apps/*/node_modules/
+custom_apps/*/vendor/
+themes/vigicloud/css/
+backups/
+mariadb/
+redis/
